@@ -15,7 +15,7 @@
     />
 
     <!-- styles -->
-   
+   <style>
 /*
 =============== 
 Fonts
@@ -263,6 +263,8 @@ nav {
     color: var(--clr-primary-7);
   }
 }
+
+</style>
   </head>
   <body>
     <nav>
